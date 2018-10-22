@@ -1,1 +1,1 @@
-# Machine-Learning---SVM-Decision-Trees-Boosting
+# Machine-Learning - SVM, Decision Trees & Boosting
